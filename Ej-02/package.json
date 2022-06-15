@@ -1,0 +1,11 @@
+{
+  "name": "ej02",
+  "version": "1.0.0",
+  "description": "Aprendiendo a usar JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gisela V Dangelo",
+  "license": "ISC"
+}
