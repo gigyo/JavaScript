@@ -20,5 +20,5 @@ const mes = miNacim.getMonth() + 1;
 console.log(mes);
 
 // - Una variable que contenga el año de tu nacimiento (con 4 dígitos
-const fechaCumple = miNacim.toLocaleDateString("es");
-console.log(fechaCumple)
+const anyo = miNacim.getFullYear();
+console.log(anyo);
