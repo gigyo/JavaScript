@@ -25,4 +25,4 @@ function fibonacci(num){
     }
 }
 
-fibonacci(10);
+fibonacci(30);
